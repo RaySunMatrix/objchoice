@@ -61,6 +61,132 @@ build CMakeFiles/objchoice.dir/develop/tools/task.cpp.o: CXX_COMPILER__objchoice
   OBJECT_DIR = CMakeFiles/objchoice.dir
   OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools
 
+build CMakeFiles/objchoice.dir/develop/tools/gtk/widget.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/gtk/widget.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/gtk/widget.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/gtk
+
+build CMakeFiles/objchoice.dir/develop/tools/gtk/provider.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/gtk/provider.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/gtk/provider.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/gtk
+
+build CMakeFiles/objchoice.dir/develop/tools/gtk/thread.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/gtk/thread.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/gtk/thread.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/gtk
+
+build CMakeFiles/objchoice.dir/develop/tools/gtk/lapturway.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/gtk/lapturway.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/gtk/lapturway.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/gtk
+
+build CMakeFiles/objchoice.dir/develop/tools/gtk/gboolean.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/gtk/gboolean.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/gtk/gboolean.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/gtk
+
+build CMakeFiles/objchoice.dir/develop/tools/defts/uiprovider.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/defts/uiprovider.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/defts/uiprovider.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/defts
+
+build CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderint.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/defts/uiproviderint.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderint.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/defts
+
+build CMakeFiles/objchoice.dir/develop/tools/defts/agsuiprovider.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/defts/agsuiprovider.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/defts/agsuiprovider.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/defts
+
+build CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderget.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/defts/uiproviderget.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderget.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/defts
+
+build CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderset.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/defts/uiproviderset.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderset.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/defts
+
+build CMakeFiles/objchoice.dir/develop/tools/gettype/myas.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/gettype/myas.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/gettype/myas.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/gettype
+
+build CMakeFiles/objchoice.dir/develop/tools/types/and/values.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/types/and/values.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/types/and/values.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/types/and
+
+build CMakeFiles/objchoice.dir/develop/tools/object/hierarchy/ginterface.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/object/hierarchy/ginterface.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/object/hierarchy/ginterface.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/object/hierarchy
+
+build CMakeFiles/objchoice.dir/develop/tools/known/implementations/includes.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/known/implementations/includes.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/known/implementations/includes.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/known/implementations
+
+build CMakeFiles/objchoice.dir/develop/tools/description/ui/headers.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/description/ui/headers.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/description/ui/headers.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/description/ui
+
+build CMakeFiles/objchoice.dir/develop/tools/functions/getwindow/gtkwidget.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/functions/getwindow/gtkwidget.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/functions/getwindow/gtkwidget.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/functions/getwindow
+
+build CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/mazapool/agsuiprovider.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/parameters/ui_provider/mazapool/agsuiprovider.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/mazapool/agsuiprovider.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/mazapool
+
+build CMakeFiles/objchoice.dir/develop/tools/parameters/windows/agswindow.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/parameters/windows/agswindow.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/parameters/windows/agswindow.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/parameters/windows
+
+build CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/myaslink.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/parameters/ui_provider/lapslink/ui/myaslink.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/myaslink.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui
+
+build CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/getui.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/parameters/ui_provider/lapslink/ui/getui.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/getui.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui
+
+build CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/setui.cpp.o: CXX_COMPILER__objchoice_unscanned_Debug /home/admin/bellow.net/objchoice/develop/tools/parameters/ui_provider/lapslink/ui/setui.cpp || cmake_object_order_depends_target_objchoice
+  DEP_FILE = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/setui.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/objchoice.dir
+  OBJECT_FILE_DIR = CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target objchoice
@@ -69,7 +195,7 @@ build CMakeFiles/objchoice.dir/develop/tools/task.cpp.o: CXX_COMPILER__objchoice
 #############################################
 # Link the executable objchoice
 
-build objchoice: CXX_EXECUTABLE_LINKER__objchoice_Debug CMakeFiles/objchoice.dir/main.cpp.o CMakeFiles/objchoice.dir/develop/tools/task.cpp.o
+build objchoice: CXX_EXECUTABLE_LINKER__objchoice_Debug CMakeFiles/objchoice.dir/main.cpp.o CMakeFiles/objchoice.dir/develop/tools/task.cpp.o CMakeFiles/objchoice.dir/develop/tools/gtk/widget.cpp.o CMakeFiles/objchoice.dir/develop/tools/gtk/provider.cpp.o CMakeFiles/objchoice.dir/develop/tools/gtk/thread.cpp.o CMakeFiles/objchoice.dir/develop/tools/gtk/lapturway.cpp.o CMakeFiles/objchoice.dir/develop/tools/gtk/gboolean.cpp.o CMakeFiles/objchoice.dir/develop/tools/defts/uiprovider.cpp.o CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderint.cpp.o CMakeFiles/objchoice.dir/develop/tools/defts/agsuiprovider.cpp.o CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderget.cpp.o CMakeFiles/objchoice.dir/develop/tools/defts/uiproviderset.cpp.o CMakeFiles/objchoice.dir/develop/tools/gettype/myas.cpp.o CMakeFiles/objchoice.dir/develop/tools/types/and/values.cpp.o CMakeFiles/objchoice.dir/develop/tools/object/hierarchy/ginterface.cpp.o CMakeFiles/objchoice.dir/develop/tools/known/implementations/includes.cpp.o CMakeFiles/objchoice.dir/develop/tools/description/ui/headers.cpp.o CMakeFiles/objchoice.dir/develop/tools/functions/getwindow/gtkwidget.cpp.o CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/mazapool/agsuiprovider.cpp.o CMakeFiles/objchoice.dir/develop/tools/parameters/windows/agswindow.cpp.o CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/myaslink.cpp.o CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/getui.cpp.o CMakeFiles/objchoice.dir/develop/tools/parameters/ui_provider/lapslink/ui/setui.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/objchoice.dir
   POST_BUILD = :
